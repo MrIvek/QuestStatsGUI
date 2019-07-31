@@ -1,6 +1,6 @@
-main: com.craft0.mrivek.quest.QuestStatsGUI
+main: com.craft0.mrivek.queststatsgui.QuestStatsGUI
 name: QuestStatsGUI
-version: 1.0.0
+version: 1.1.3
 author: MrIvek
 depend: [Quests]
 commands:

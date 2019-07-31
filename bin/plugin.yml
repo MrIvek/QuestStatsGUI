@@ -1,9 +1,0 @@
-main: com.craft0.mrivek.quest.QuestStatsGUI
-name: QuestStatsGUI
-version: 1.0.0
-author: MrIvek
-depend: [Quests]
-commands:
-   questgui:
-      description: Open GUI.
-      usage: /questgui
